@@ -1,12 +1,12 @@
-## SIMPLE WEATHER
+# Simple weather
 Simple weather app that displays data from openweather.
 
-### HOW TO RUN
+## How to run:
 1. Install dependencies:
 ```
 npm install
 ```
-2. Run:
+2. Run test server:
 ```
 npm start
 ```
